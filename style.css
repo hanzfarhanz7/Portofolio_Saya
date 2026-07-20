@@ -1,0 +1,32 @@
+
+.Foto1{
+    border-color: antiquewhite;
+    border: 2px solid antiquewhite;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: gray;
+    margin: 15px;
+    list-style: none;
+    
+}
+ 
+p {
+  color: azure;
+}
+
+h3 {
+  color: azure;
+}
+
+.Foto2{
+    border-color: antiquewhite;
+    border: 2px solid antiquewhite;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: gray;
+    margin: 15px; 
+}
+
+body {
+  background-color: black;
+}
